@@ -98,7 +98,7 @@ nav:
       - Overview: notebooks/part4.md
       - 4 · Transformers & LLMs: notebooks/hw4/Assignment_4.ipynb
       - 4 · Transformer Illustrated: notebooks/hw4/Transformer_Illustration.ipynb
-    - LLMs and Agentic AI:
+    - LLM Alignment and Agentic AI:
       - Overview: notebooks/part5.md
       - 5 · Fine-Tuning with LoRA/QLoRA: notebooks/hw5/Part1-sft_trl_lora_qlora.ipynb
       - 5 · Agentic NLP: notebooks/hw5/Part2-Exam_Agent_For_NLP.ipynb

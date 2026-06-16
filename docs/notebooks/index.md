@@ -40,7 +40,7 @@ New to the book? Start with the [Preface](../ebook/preface.md).
 | 4 | [Transformers & LLMs](hw4/Assignment_4.ipynb) | Attention, transformers, pretrained models |
 | 4+ | [Transformer Illustrated](hw4/Transformer_Illustration.ipynb) | Visual, step-by-step transformer walkthrough |
 
-## LLMs and Agentic AI
+## LLM Alignment and Agentic AI
 
 | Ch | Chapter | Topics |
 |----|---------|--------|

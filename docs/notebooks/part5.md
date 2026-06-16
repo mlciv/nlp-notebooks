@@ -1,4 +1,4 @@
-# LLMs and Agentic AI
+# LLM Alignment and Agentic AI
 
 This part adapts **large language models** to specific tasks and turns them into agents.
 
