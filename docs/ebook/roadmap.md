@@ -24,6 +24,8 @@ the subsections found in each assignment notebook.
 These topics are candidates for future chapters. The list is tentative and will evolve.
 
 - **Evaluation of NLP & LLM systems** — metrics, benchmarks, human evaluation, LLM-as-judge.
+- **Post-training & reinforcement learning** — RLHF, reward models, PPO, DPO, and RLAIF.
+- **Self-evolving LLMs** — self-improvement, self-training, and self-correction loops.
 - **Responsible NLP** — bias, fairness, safety, and limitations.
 
 !!! note "Suggestions welcome"
