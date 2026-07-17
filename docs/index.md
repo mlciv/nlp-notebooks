@@ -1,6 +1,6 @@
 # Natural Language Processing
 
-### *A Code-First Introduction with Jupyter Notebooks*
+### *A Notebook-Based Introduction*
 
 !!! warning "Version 0.1 — developing"
     This is an early, actively developing release (**v0.1**). Chapters, structure, and

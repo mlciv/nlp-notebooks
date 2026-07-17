@@ -1,6 +1,6 @@
 # Preface
 
-Welcome to **Natural Language Processing: A Code-First Introduction with Jupyter Notebooks** —
+Welcome to **Natural Language Processing: A Notebook-Based Introduction** —
 an open educational resource (OER) for learning modern NLP by reading, running, and
 modifying real code.
 
