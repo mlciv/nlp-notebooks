@@ -5,7 +5,7 @@ site_url: https://mlciv.github.io/nlp-ebook
 repo_url: https://github.com/mlciv/nlp-ebook
 repo_name: mlciv/nlp-ebook
 copyright: >
-  Copyright &copy; 2025 Jie Cao —
+  Copyright &copy; 2025 Jie Cao — v0.1 (developing) —
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">CC BY-NC-SA 4.0</a>
 
 theme:

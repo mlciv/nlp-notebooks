@@ -1,6 +1,6 @@
 # Roadmap
 
-This book is **actively growing**. The five chapters below have been class-tested as
+This book is at **version 0.1** and **actively growing**. The five chapters below have been class-tested as
 course assignments; additional chapters are planned as the open textbook is expanded
 under the OU Alternative Textbook Grant 2025–2026.
 

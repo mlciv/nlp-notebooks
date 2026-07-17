@@ -2,6 +2,10 @@
 
 ### *A Code-First Introduction with Jupyter Notebooks*
 
+!!! warning "Version 0.1 — developing"
+    This is an early, actively developing release (**v0.1**). Chapters, structure, and
+    content are still evolving — see the [Roadmap](ebook/roadmap.md).
+
 An **open educational resource** for learning modern NLP by reading, running, and
 modifying real code — from tokenization and word vectors to transformers, fine-tuning,
 and LLM agents. Every chapter is an interactive Jupyter notebook you can run in your
