@@ -29,7 +29,7 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 ### How to cite / attribute
 
 > Cao, Jie. *Natural Language Processing: A Notebook-Based Introduction.*
-> University of Oklahoma, 2025. Licensed under CC BY-NC-SA 4.0.
+> University of Oklahoma, 2026. Licensed under CC BY-NC-SA 4.0.
 
 ### Third-party materials
 
