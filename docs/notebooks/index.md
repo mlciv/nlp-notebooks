@@ -52,8 +52,8 @@ See the [Roadmap](../ebook/roadmap.md) for chapters in progress and planned.
 ## Run everything locally
 
 ```bash
-git clone https://github.com/mlciv/nlp-ebook.git
-cd nlp-ebook
+git clone https://github.com/mlciv/nlp-notebooks.git
+cd nlp-notebooks
 python3 -m venv .venv
 source .venv/bin/activate
 pip install jupyter

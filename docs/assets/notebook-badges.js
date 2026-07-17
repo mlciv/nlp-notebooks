@@ -5,7 +5,7 @@
 (function () {
   "use strict";
 
-  var REPO = "mlciv/nlp-ebook";
+  var REPO = "mlciv/nlp-notebooks";
   var BRANCH = "main";
   var REPO_PREFIX = "docs/";
 
