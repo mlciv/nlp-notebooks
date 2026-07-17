@@ -2,7 +2,7 @@
 
 ## Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
-This work — *Natural Language Processing: A Hands-On, Notebook-Based Introduction* by
+This work — *Natural Language Processing: A Code-First Introduction with Jupyter Notebooks* by
 **Jie Cao** (University of Oklahoma) — is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
@@ -28,7 +28,7 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 ### How to cite / attribute
 
-> Cao, Jie. *Natural Language Processing: A Hands-On, Notebook-Based Introduction.*
+> Cao, Jie. *Natural Language Processing: A Code-First Introduction with Jupyter Notebooks.*
 > University of Oklahoma, 2025. Licensed under CC BY-NC-SA 4.0.
 
 ### Third-party materials

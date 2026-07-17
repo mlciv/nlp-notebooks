@@ -1,6 +1,6 @@
 # Natural Language Processing
 
-### *A Hands-On, Notebook-Based Introduction*
+### *A Code-First Introduction with Jupyter Notebooks*
 
 An **open educational resource** for learning modern NLP by reading, running, and
 modifying real code — from tokenization and word vectors to transformers, fine-tuning,

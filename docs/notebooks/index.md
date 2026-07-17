@@ -1,6 +1,6 @@
 # Table of Contents
 
-*Natural Language Processing: A Hands-On, Notebook-Based Introduction*
+*Natural Language Processing: A Code-First Introduction with Jupyter Notebooks*
 
 This open textbook is built from **interactive Jupyter notebooks**. Read each chapter
 inline, launch it in **Google Colab** with one click, or download it to run locally.
