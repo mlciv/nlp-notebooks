@@ -2,9 +2,10 @@
 
 ### *A Notebook-Based Introduction*
 
-!!! warning "Version 0.1 — developing"
-    This is an early, actively developing release (**v0.1**). Chapters, structure, and
-    content are still evolving — see the [Roadmap](ebook/roadmap.md).
+!!! info "Version 0.1 — a living, ever-evolving edition"
+    This is an early release (**v0.1**) of a **living resource** that grows and evolves
+    alongside the field. Chapters, structure, and content are continually expanded and
+    updated — see the [Roadmap](ebook/roadmap.md).
 
 An **open educational resource** for learning modern NLP by reading, running, and
 modifying real code — from tokenization and word vectors to transformers, fine-tuning,
